@@ -1,0 +1,10 @@
+app/etc/modules/Crius_SkipStep1.xml								app/etc/modules/Crius_SkipStep1.xml
+app/code/community/Crius/SkipStep1								app/code/community/Crius/SkipStep1
+
+app/design/frontend/base/default/layout/skipstep1.xml			app/design/frontend/base/default/layout/skipstep1.xml
+app/design/frontend/base/default/template/skipstep1				app/design/frontend/base/default/template/skipstep1
+
+## Translate Setup
+app/locale/de_DE/Crius_SkipStep1.csv							app/locale/de_DE/Crius_SkipStep1.csv
+app/locale/da_DK/Crius_SkipStep1.csv							app/locale/da_DK/Crius_SkipStep1.csv
+app/locale/en_US/Crius_SkipStep1.csv							app/locale/en_US/Crius_SkipStep1.csv
